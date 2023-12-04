@@ -1,2 +1,2 @@
 # PMAT- Course Final
-This report is part of the course in writing Malware Analysis Reports
+The report contained here is part of the course in Practical Malware Analysis and Triage (PMAT)
